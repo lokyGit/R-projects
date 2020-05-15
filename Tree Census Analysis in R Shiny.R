@@ -1,3 +1,6 @@
+#######################################################
+# R Shiny dashboard for Analyzing the tree census
+#########################################################
 #Loading the library
 library(shiny)
 library(ggplot2)
