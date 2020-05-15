@@ -1,6 +1,6 @@
-####################################
-####  R Shiny Dashboard Decision Support & BI - Lokesh.R ###
-####################################
+############################################
+####  R Shiny Dashboard - Lokesh Palacharla
+############################################
 
 #install.packages("tidyverse")
 library("tidyverse")
