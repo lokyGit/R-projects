@@ -1,3 +1,8 @@
+################################
+# ANALYZING ALCHOL CONSUMPTION
+# EFFECT ON STUDENT GRADES
+################################
+
 library(ggplot2)
 library(plyr)
 install.packages("dplyr")
